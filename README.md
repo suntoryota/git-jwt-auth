@@ -1,3 +1,3 @@
-# git-jwt-auth
+# go-jwt-auth
 
 Learn to create jwt authentication
